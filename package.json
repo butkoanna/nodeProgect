@@ -16,6 +16,7 @@
     "url": "https://github.com/butkoanna/nodeProgect/issues"
   },
   "devDependencies": {
-    "eslint": "~4.5.0"
+    "eslint": "~4.5.0",
+    "eslint-config-google": "^0.9.1"
   }
 }
